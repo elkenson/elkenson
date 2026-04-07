@@ -21,10 +21,6 @@ Elkenson builds projects to help analysts from both technical and non-technical 
 - **Mercury** — version-aware Android analysis toolkit
 
 <p align="center">
-  <img src="./main_menu.png" alt="Mercury main menu" width="880">
-</p>
-
-<p align="center">
   <img src="./select_versions.png" alt="Mercury version selection" width="880">
 </p>
 
