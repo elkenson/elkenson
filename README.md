@@ -15,7 +15,7 @@
 
 ---
 ## What We Build
-Elkenson builds projects to help analysts from both technical and non-technical backgrounds understand the world.
+Research & Intelligence on Foreign Software 
 
 ## Featured Projects
 - **Mercury** — version-aware Android analysis toolkit
