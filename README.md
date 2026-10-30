@@ -14,7 +14,7 @@
 </div>
 
 ---
-## What We Build
+## What We Do
 Research & Intelligence on Foreign Software 
 
 ## Featured Projects
