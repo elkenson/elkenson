@@ -15,7 +15,7 @@
 
 [![Mercury Desktop release](https://img.shields.io/github/v/release/elkenson/mercury-desktop-releases?include_prereleases&style=flat-square&label=Mercury%20Desktop)](https://github.com/elkenson/mercury-desktop-releases/releases/latest)
 
-[![Mercury Desktop: picking app versions to download and analyze](./mercury-example.png)](https://www.elkenson.com/mercury)
+[![Mercury Desktop: picking app versions to download and analyze](./assets/mercury-example.png)](https://www.elkenson.com/mercury)
 
 ## Contact
 
